@@ -54,7 +54,7 @@ ping 192.168.1.4
 
 Repita o processo nos outros computadores, alterando os endereços IP conforme necessário.
 
-Resultados Esperados
+**Resultados Esperados**
 Todos os computadores devem conseguir se comunicar entre si.
 Os comandos ping devem retornar respostas bem-sucedidas, indicando que os pacotes estão sendo enviados e recebidos corretamente.
 
